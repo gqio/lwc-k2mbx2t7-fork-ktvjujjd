@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/gqio.lwc-k2mbx2t7-fork-ktvjujjd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve YJWLWSCgOvO9JJNeG6Ev --open"
+  }
+}
